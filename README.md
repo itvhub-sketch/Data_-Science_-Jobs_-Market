@@ -23,6 +23,7 @@ In the data preparation phase I performed the following tasks.
 3. data claaning and formatting.
 
 ### Exploratory Data Analysis
+
 EDA involves exploring the sales data to answer key questions, such as:
 
 - What are the most common job titles?
@@ -44,6 +45,8 @@ plt.ylabel('Company')
 plt.show()
 ```
 This plot will display the companies that have posted the most job listings.
+
+### Results
 
 
 
