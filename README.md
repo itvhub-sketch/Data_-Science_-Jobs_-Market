@@ -46,7 +46,9 @@ plt.show()
 ```
 This plot will display the companies that have posted the most job listings.
 
-### Results
+### Results/Findings
+
+ The data analysis reveals that A few companies dominate the listings, reflecting either regional or organizational hiring trends. While most job postings lack reviews, those with reviews exhibit significant variability, with some standout roles receiving a disproportionately high number of reviews. The job descriptions emphasize skills in data analysis, teamwork, and technical expertise, aligning with the growing demand for data professionals. Overall, the dataset highlights a concentrated market for technical and analytical talent in a specific geographic area.
 
 
 
