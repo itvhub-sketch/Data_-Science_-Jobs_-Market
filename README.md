@@ -58,6 +58,10 @@ This plot will display the companies that have posted the most job listings.
 
  The dataset was focused on key columns such as "position," "company," "description," "reviews," and "location." Incomplete or inconsistent entries, like job descriptions with newline characters or truncated sentences, were retained in their original form. Missing values, particularly in the "reviews" column, were preserved to allow for differentiation between listings with and without reviews. No new columns or external data were added, but the reconstructed dataset is limited compared to the potential scope of the original file.
 
+ ### References
+
+ 1. Ecommerce Analytics by Judah Phillips (Author)
+
  
 
  
