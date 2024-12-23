@@ -50,6 +50,20 @@ This plot will display the companies that have posted the most job listings.
 
  The data analysis reveals that A few companies dominate the listings, reflecting either regional or organizational hiring trends. While most job postings lack reviews, those with reviews exhibit significant variability, with some standout roles receiving a disproportionately high number of reviews. The job descriptions emphasize skills in data analysis, teamwork, and technical expertise, aligning with the growing demand for data professionals. Overall, the dataset highlights a concentrated market for technical and analytical talent in a specific geographic area.
 
+ ### Recommendations
+
+ To improve the dynamics reflected in the dataset, companies should diversify job opportunities beyond Atlanta, encourage more candidate reviews for transparency, and promote lesser-known organizations to attract diverse talent. Offering training in data-related fields can address skill gaps, while standardizing job descriptions enhances clarity. Remote work opportunities can reduce geographic concentration, and fostering a balanced focus on roles beyond data-related jobs can create a more inclusive market. Addressing review disparities and improving company culture will further attract and retain talent effectively.
+
+ ### Limitations
+
+ The dataset was focused on key columns such as "position," "company," "description," "reviews," and "location." Incomplete or inconsistent entries, like job descriptions with newline characters or truncated sentences, were retained in their original form. Missing values, particularly in the "reviews" column, were preserved to allow for differentiation between listings with and without reviews. No new columns or external data were added, but the reconstructed dataset is limited compared to the potential scope of the original file.
+
+ 
+
+ 
+
+ 
+
 
 
 
