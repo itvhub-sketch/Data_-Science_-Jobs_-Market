@@ -4,7 +4,7 @@ Data Analysis of 700 hundred Postings from Indeed.com with the search term "Data
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Data Sources(#data-sources)
+- [Data Sources](#data-sources)
 - [Tools](#Tools)
 - [Data Cleaning](#Data-Cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
