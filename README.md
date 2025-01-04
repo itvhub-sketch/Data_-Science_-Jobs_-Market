@@ -21,6 +21,11 @@ Data Analysis of 700 hundred Postings from Indeed.com with the search term "Data
 
 This dataset has beeen uploaded to kaggle by ShaShan Lu. There are nearley 7000 job postings from Indeed.com with the search term of "Data Science". Insights from analyzing the data will be beneficial to me, to identify trends, make data-driven recommendations and to gain a deeper understanding of the dataset.
 
+<img width="967" alt="Number_of_Positions_cities" src="https://github.com/user-attachments/assets/a858e5b2-5f0e-41e9-9428-a6362bf5ca63" />
+
+
+
+
 ## Data Sources
 
 The dataset used for this analysis is the JobMarket_EDA.csv file, uploaded to kaggle by shashan Lu, containing information from job listings on Indeed.com with the search term "Data Science".
